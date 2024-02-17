@@ -15,6 +15,9 @@ services:
   ports :
    - '6379:6379'  #search for redis default port
 
+#ref : https://chat.openai.com/share/b4f4c94f-e3e3-4fc2-aaa3-c711aeaef729
+
+
 
 
 
